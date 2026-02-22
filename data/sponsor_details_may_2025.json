@@ -1,11 +1,6 @@
 {
   "title": "Leeds Testing Atelier - Sponsor Us",
   "sponsors": [
-        {
-      "name": "Accenture UK and Ireland",
-      "picture": "images/sponsors/accenture_uk_logo.jpeg",
-      "about": "Accenture is a leading solutions and services company that helps the world’s leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across the enterprise, bringing together the talent of our approximately 784,000 people, our proprietary assets and platforms, and deep ecosystem relationships."
-    },
     {
       "name": "Tony Holroyd",
       "picture": "images/sponsors/tonyh-logo.jpeg",
@@ -27,6 +22,11 @@
       "about": "I’m passionate about exploring and testing software as part of the creation and development of useful applications. I strongly believe in collaborative methods and using different thinking techniques to look at things from all angles."
     },
     {
+      "name": "Ministry of Testing",
+      "picture": "images/sponsors/MoT Logo_Square White.png",
+      "about": "Ministry of Testing is a community of practice for software testing professionals. We believe the software testing, quality engineering, and quality assurance professions deserve a space, a community, a network, and the possibility to expand."
+    },
+    {
       "name": "The Coders Guild",
       "picture": "images/sponsors/coders-guild-logo.jpg",
       "about": "Promoting inclusion, diversity and equality through expert training, coaching and CPD opportunities for software development. A safe space offering community-driven, peer-reviewed and open-source knowledge share."
@@ -42,9 +42,29 @@
       "about": "Nimble are a tightly knit collective of elite product & technology professionals who love what we do! We’ve taken a people first, quality-driven approach to growing our community by handpicking only people who have the right values, characteristics, and ability."
     },
     {
+      "name": "Burendo",
+      "picture": "images/sponsors/burendo_consulting_logo.jpeg",
+      "about": "An award-winning consultancy delivering stand-out products and services through technology. We partner with organisations to accelerate value delivery and transform customer experiences."
+    },
+    {
+      "name": "John Lewis Partnership",
+      "picture": "images/sponsors/jlp_logo.jpeg",
+      "about": "Our Partnership is an ongoing experiment to find happier, more trusted ways of doing business, for the benefit of us all. We work together to create a successful business and a fairer, more sustainable future for Partners, customers, suppliers and communities."
+    },
+    {
+      "name": "Doza",
+      "picture": "images/sponsors/doza_consulting_logo.jpeg",
+      "about": "We share a common vision of wanting to deliver innovative solutions that drive meaningful value for businesses. The foundation for Digital Transformation is people. However you choose to work with us, we're always here to bring you real value and foster a friendly and collaborative culture."
+    },
+    {
       "name": "WRK Digital",
       "picture": "images/sponsors/wrk_digital_logo.jpeg",
       "about": "WRK digital was founded to be a Trusted, Passionate and Authentic business, partnering some of the most exciting companies to scale their technology teams and disrupt our industry."
+    },
+    {
+      "name": "Conflux",
+      "picture": "images/sponsors/conflux-2021-conflux-logomark-nosubtitle-lime-sm.png",
+      "about": "Expert-led group learning for adopting fast flow and Team Topologies."
     },
     {
       "name": "Hippo Digital",
